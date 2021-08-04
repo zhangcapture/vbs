@@ -2,7 +2,7 @@ Option Explicit
 
 dim inputVar
 dim rtnValue
-dim inputVarArray
+dim inputVarArray  
 dim i
 
 if WScript.Arguments.Count < 1 then
