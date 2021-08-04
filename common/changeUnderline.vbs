@@ -6,7 +6,7 @@ dim inputVarArray
 dim i
 
 if WScript.Arguments.Count < 1 then
-	Wscript.quit
+		Wscript.quit
 end if
 
 inputVar    = WScript.arguments(0)
